@@ -1,0 +1,21 @@
+[
+    {
+        "image_id": 1,
+        "image_name": "baby bunny",
+        "image_description": "baby bunny with some cute chubby cheeks",
+        "image_url": "https://res.cloudinary.com/lowdock/image/upload/v1609874994/fjvvh80rcwpk2u0dhwue.jpg"
+    },
+    {
+        "image_id": 2,
+        "image_name": "merpuppy",
+        "image_description": "life goal is to find a merpuppy IRL",
+        "image_url": "https://res.cloudinary.com/lowdock/image/upload/v1609874702/fab8mrzjpcztmux1x0g1.jpg"
+    },
+    {
+        "image_id": 3,
+        "image_name": "baby sloth",
+        "image_description": "baby sloth hanging upside down",
+        "image_url": "https://res.cloudinary.com/lowdock/image/upload/v1609875468/a50648594a3211ba21ce7bcad8ad43c3_s8n9vg.jpg"
+
+    }
+]
